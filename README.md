@@ -10,9 +10,3 @@
 
 ### JavaScript/TypeScript
 - [모던 JavaScript 튜토리얼](https://ko.javascript.info/) - 자바스크립트 기초부터 심화까지
-
----
-
-## 라이센스
-
-이 프로젝트는 MIT 라이센스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
