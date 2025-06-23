@@ -5,6 +5,8 @@
 ## 목차
 
 - [프론트엔드](#프론트엔드)
+- [개발 연습](#개발-연습)
+- [문서화](#문서화)
 
 ## 프론트엔드
 
@@ -18,3 +20,13 @@
 
 ### UI Library(React)
 - [Radix UI](https://www.radix-ui.com/) - 접근성이 뛰어난 Headless UI 컴포넌트 라이브러리
+
+## 개발 연습
+
+### 코딩 카타(Kata)
+- [Kata-Log](https://kata-log.rocks/) - 다양한 난이도와 주제의 코딩 카타 모음 사이트
+
+## 문서화
+
+### JavaScript/TypeScript 문서화
+- [TSDoc](https://tsdoc.org/) - TypeScript 코드 문서화를 위한 표준
