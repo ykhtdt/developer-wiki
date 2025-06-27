@@ -25,11 +25,11 @@
 ## 모바일 앱 개발
 
 ### React Native
-- [React Native 공식 문서](https://reactnative.dev/) - 크로스 플랫폼 앱 개발
-- [Expo 공식 문서](https://docs.expo.dev/) - React Native 개발을 위한 도구 및 서비스 플랫폼
+- [React Native](https://reactnative.dev/) - 크로스 플랫폼 앱 개발
+- [Expo](https://docs.expo.dev/) - React Native 개발을 위한 도구 및 서비스 플랫폼
 
 ### Capacitor
-- [Capacitor 공식 문서](https://capacitorjs.com/) - 크로스 플랫폼 앱 개발
+- [Capacitor](https://capacitorjs.com/) - 크로스 플랫폼 앱 개발
 
 ## 개발 연습
 
