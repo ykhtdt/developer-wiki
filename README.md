@@ -22,6 +22,9 @@
 ### UI Library(React)
 - [Radix UI](https://www.radix-ui.com/) - 접근성이 뛰어난 Headless UI 컴포넌트 라이브러리
 
+### Utility Libraries
+- [TanStack Virtual](https://tanstack.com/virtual/latest) - 대용량 리스트를 위한 가상화 라이브러리
+
 ## 모바일 앱 개발
 
 ### React Native
